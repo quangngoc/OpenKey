@@ -572,7 +572,7 @@
 				CODE_SIGN_IDENTITY = "Mac Developer";
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
-				CURRENT_PROJECT_VERSION = 48;
+				CURRENT_PROJECT_VERSION = 49;
 				DEVELOPMENT_TEAM = 8S7348QV8Q;
 				HEADER_SEARCH_PATHS = "";
 				INFOPLIST_FILE = ModernKey/Info.plist;
@@ -581,7 +581,7 @@
 					"@executable_path/../Frameworks",
 				);
 				MACOSX_DEPLOYMENT_TARGET = 10.10;
-				MARKETING_VERSION = 2.0.4;
+				MARKETING_VERSION = 2.0.5;
 				OTHER_LDFLAGS = (
 					"-lc++\n-lc++",
 				);
@@ -598,7 +598,7 @@
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
-				CURRENT_PROJECT_VERSION = 48;
+				CURRENT_PROJECT_VERSION = 49;
 				DEVELOPMENT_TEAM = 8S7348QV8Q;
 				HEADER_SEARCH_PATHS = "";
 				INFOPLIST_FILE = ModernKey/Info.plist;
@@ -607,7 +607,7 @@
 					"@executable_path/../Frameworks",
 				);
 				MACOSX_DEPLOYMENT_TARGET = 10.10;
-				MARKETING_VERSION = 2.0.4;
+				MARKETING_VERSION = 2.0.5;
 				OTHER_LDFLAGS = (
 					"-lc++\n-lc++",
 				);
